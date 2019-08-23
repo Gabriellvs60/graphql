@@ -1,0 +1,7 @@
+npm inint
+
+npm install express
+
+npm install nodemon -g
+
+npm install graphql express-graphql

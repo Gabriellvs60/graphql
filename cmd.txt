@@ -1,4 +1,4 @@
-npm inint
+npm init
 
 npm install express
 
@@ -9,3 +9,7 @@ npm install graphql express-graphql
 npm install lodash
 
 npm install mongoose
+
+//Comandos no react
+
+npm install apollo-boost react-apollo graphql --save

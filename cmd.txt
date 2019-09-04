@@ -10,6 +10,8 @@ npm install lodash
 
 npm install mongoose
 
+npm install cors --save
+
 //Comandos no react
 
 npm install apollo-boost react-apollo graphql --save
